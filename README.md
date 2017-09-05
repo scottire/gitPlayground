@@ -7,3 +7,6 @@ This is a starter template for [Ionic](http://ionicframework.com/docs/) projects
 (https://github.com/ionic-team/ionic2-app-base).
   
 Some more conflicting changes
+
+
+Adding a line to the end
