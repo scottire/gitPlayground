@@ -11,3 +11,5 @@ Some more conflicting changes
 Add change
 
 Adding a line to the end
+
+And another
