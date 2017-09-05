@@ -8,5 +8,6 @@ This is a starter template for [Ionic](http://ionicframework.com/docs/) projects
   
 Some more conflicting changes
 
+Add change
 
 Adding a line to the end
